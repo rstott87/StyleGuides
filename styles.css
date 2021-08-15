@@ -1,0 +1,81 @@
+.color-section {
+    border: 2px solid black;
+}
+
+body h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+.colors {
+    padding-bottom: 30px;
+    font-family: fantasy;
+}
+
+.colors li {
+    border: 2px solid black;
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding: 10px; 
+    margin: 0px 8px;
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.blue {
+    background-color: rgb(47, 0, 255);
+}
+
+.red {
+    background-color: rgb(255, 0, 43);
+}
+
+.orange {
+    background-color: rgb(255, 115, 0);
+}
+
+.green {
+    background-color: rgb(107, 155, 45);
+}
+
+.grey {
+    background-color: rgb(89, 89, 112);
+}
+
+.pink {
+    background-color: rgb(255, 0, 212);
+}
+
+.font-section {
+    border: 2px solid black;
+    margin-top: 30px;
+}
+
+.fonts li{
+    display: inline-block;
+    
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.FranklinGothicMedium {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.TextStyles {
+    border: 2px solid black; 
+    margin: 30px;
+}
